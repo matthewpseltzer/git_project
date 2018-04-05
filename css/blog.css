@@ -1,0 +1,67 @@
+body 
+{
+    background-color: #728E3E;
+    color: white;
+    height: 100%;
+}
+footer
+{
+    background-color: #003300;
+    text-align: center;
+}
+.mono
+{
+    font-family: 'Nova Mono', monospace;
+}
+.square
+{
+    font-family: 'Nova Square', cursive;
+    font-size: 24pt;
+}
+.blog-entry-date
+{
+    font-family: 'Nova Script', cursive;
+    text-decoration: underline;
+}
+.dict-def
+{
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: bold;
+    color:white;
+    font-size: 12pt;
+}
+.dict-def-ital
+{
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-weight: bold;
+    color:white;
+    font-size: 12pt;
+}
+ul
+{  
+    text-decoration: none;
+}
+li
+{
+    display: inline;
+    font-weight: bold;
+}
+.no-underline
+{
+    text-decoration-line: none;
+    font-weight: bold;
+}
+main
+{
+    background-color: #4D4D4D;
+}
+.filler
+{
+    height: 300px;
+}
+.contact-info
+{
+    background-color: dimgray;
+}
+

@@ -1,0 +1,6 @@
+byte
+
+n.
+1. A unit of data equal to eight bits. Computer memory is often expressed in megabytes or gigabytes.
+2. A set of bits constituting the smallest unit of addressable memory in a given computer, typically eight bits.
+[Alteration and blend of BIT and BITE.]
